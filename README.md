@@ -1,1 +1,1 @@
-# music_ariadne
+# Music App Trial
